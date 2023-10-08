@@ -11,10 +11,4 @@ It is `Víctor Palomares` and I like to define myself as an `anarcho-pacifist` g
 
 ---
 
-<div align="center">
-  
-[![vpalomaresg's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vpalomaresg&hide=prs,contribs&include_all_commits=true&hide_border=false&show_icons=true&icon_color=5edf2b&bg_color=161b22&text_color=5edf2b&border_color=00ff00&cache_seconds=1800&title_color=c6538c&hide_title=true&disable_animations=true)](https://github.com/vpalomaresg)
-  
-</div>
-
 <p align="center"><a href="https://github.com/vpalomaresg" target="_blank"><img width="125px" src="./img/kurohige.png" align="center" alt="vpalomaresg-Kurohige-Pirate" /></a></p>
