@@ -11,4 +11,4 @@ It is `Víctor Palomares` and I like to define myself as an `anarcho-pacifist` g
 
 ---
 
-<p align="center"><a href="https://github.com/vpalomaresg" target="_blank"><img width="125px" src="./img/kurohige.png" align="center" alt="vpalomaresg-Kurohige-Pirate" /></a><a href="https://github.com/vpalomaresg" target="_blank"><img width="125px" src="./img/shirohige.png" align="center" alt="vpalomaresg-Shirohige-Pirate" /></a></p>
+<p align="center"><a href="https://github.com/vpalomaresg" target="_blank"><img width="125px" src="./img/kurohige.png" align="center" alt="vpalomaresg-Kurohige-Pirate" /></a><a href="https://github.com/vpalomaresg" target="_blank"><img width="125px" src="./img/shirohige.png" align="center" alt="vpalomaresg-Shirohige-Pirate" /></a><a href="https://github.com/vpalomaresg" target="_blank"><img width="125px" src="./img/kurohige.png" align="center" alt="vpalomaresg-Kurohige-Pirate" /></a></p>
