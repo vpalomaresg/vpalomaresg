@@ -3,7 +3,7 @@
 <p><b>Hi! Greetings 👋🏼 Nice to meet you!</b></p>
 </div>
 
-It is `Víctor Palomares` and I like to define myself as an `anarcho-pacifist` guy from the `Catalonia`😎
+It is `Víctor Palomares` and I like to define myself as an `anarcho-pacifist` guy from `Catalonia`😎
   
 > I believe in the power of `Education` (in both ways, `learning`&`teaching`) to overcome difficulties.
 > I stand up for `Catalonia`, `Diversity`, `Arts`, `Technology`, `Privacy` and several more things.
