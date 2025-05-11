@@ -50,6 +50,6 @@ It is `Víctor Palomares`.
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/vpalomaresg/vpalomaresg/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/vpalomaresg/vpalomaresg/output/snake.svg" alt="Animació serp" />
 
 ###
