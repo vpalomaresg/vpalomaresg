@@ -2,9 +2,7 @@
 <p><b>Hi! Greetings 👋🏼 Nice to meet you!</b></p>
 </div>
 
-It is `Víctor Palomares`.
-
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">It is `Víctor Palomares`.</h2>
 
 ###
 
