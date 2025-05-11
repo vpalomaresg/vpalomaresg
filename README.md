@@ -1,8 +1,10 @@
 <div align="center">
-<p><b>Hi! Greetings 👋🏼 Nice to meet you!</b></p>
-</div>
+  
+It is `Víctor Palomares`.
 
-<h2 align="left">It is `Víctor Palomares`.</h2>
+<h2 align="left">Hi! Greetings 👋🏼 Nice to meet you!</h2>
+
+</div>
 
 ###
 
