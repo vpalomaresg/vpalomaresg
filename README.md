@@ -5,11 +5,11 @@ It is `Víctor Palomares`.
 </div>
 
 <div align="center">
-<p><a href="https://github.com/how2palo" target="_blank"><img src="./img/pikachu_wave.gif" width="75" /></a></p>
+<p><a href="https://github.com/vpalomaresg" target="_blank"><img src="./img/pikachu_wave.gif" width="75" /></a></p>
 <p><b>Hi! Greetings 👋🏼 Nice to meet you!</b></p>
 </div>
 
-It is `Víctor Palomares` and I like to define myself as an `anarcho-pacifist` guy from `Catalonia`😎
+I like to define myself as an `anarcho-pacifist` guy from `Catalonia`😎
   
 > I believe in the power of `Education` (in both ways, `learning`&`teaching`) to overcome difficulties.
 > I stand up for `Catalonia`, `Diversity`, `Arts`, `Technology`, `Privacy` and several more things.
@@ -17,7 +17,7 @@ It is `Víctor Palomares` and I like to define myself as an `anarcho-pacifist` g
 
 ---
 
-<p align="center"><a href="https://github.com/how2palo" target="_blank"><img width="125px" src="./img/shirohige.png" align="center" alt="how2palo-Shirohige-Pirate" /></a></p>
+<p align="center"><a href="https://github.com/vpalomaresg" target="_blank"><img width="125px" src="./img/shirohige.png" align="center" alt="how2palo-Shirohige-Pirate" /></a></p>
 
 ###
 
