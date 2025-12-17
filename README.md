@@ -17,7 +17,7 @@ I like to define myself as an `anarcho-pacifist` guy from `Catalonia`😎
 
 ---
 
-<p align="center"><a href="https://github.com/vpalomaresg" target="_blank"><img width="125px" src="./img/shirohige.png" align="center" alt="how2palo-Shirohige-Pirate" /></a></p>
+<p align="center"><a href="https://github.com/vpalomaresg" target="_blank"><img width="125px" src="./img/shirohige.png" align="center" /></a></p>
 
 ###
 
