@@ -5,7 +5,7 @@ It is `Víctor Palomares`.
 </div>
 
 <div align="center">
-<p><a href="https://github.com/vpalomaresg" target="_blank"><img src="./img/pikachu_wave.gif" width="75" /></a></p>
+<p><a href="https://github.com/vpalomaresg" target="_blank"><img src="./pikachu_wave.gif" width="75" /></a></p>
 <p><b>Hi! Greetings 👋🏼 Nice to meet you!</b></p>
 </div>
 
@@ -17,7 +17,7 @@ I like to define myself as an `anarcho-pacifist` guy from `Catalonia`😎
 
 ---
 
-<p align="center"><a href="https://github.com/vpalomaresg" target="_blank"><img width="125px" src="./img/shirohige.png" align="center" /></a></p>
+<p align="center"><a href="https://github.com/vpalomaresg" target="_blank"><img width="125px" src="./dd.png" align="center" /></a></p>
 
 ###
 
