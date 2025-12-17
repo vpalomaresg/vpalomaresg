@@ -13,7 +13,7 @@ I like to define myself as an `anarcho-pacifist` guy from `Catalonia`😎
   
 > I believe in the power of `Education` (in both ways, `learning`&`teaching`) to overcome difficulties.
 > I stand up for `Catalonia`, `Diversity`, `Arts`, `Technology`, `Privacy` and several more things.
-> I like to spend time on `gaming stuff`, `music` (especially `Rap`), learning `languages`, following `One Piece` and watching `FCBarcelona` matches and things about `GNU/Linux`, `Pokémon` and the `Wizarding World` ✨
+> I like to spend time on `gaming stuff`, `music`, learning `languages`, following `One Piece` and watching `FCBarcelona` matches and things about `GNU/Linux`, `Pokémon` and the `Wizarding World` ✨
 
 ---
 
